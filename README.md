@@ -1,1 +1,1 @@
-“This is mleers’s first git project!”
+“Repo soley for testing git commands”
